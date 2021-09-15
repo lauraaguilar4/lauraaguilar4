@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Laura Aguilar
-- 👀 I’m interested in science and technology
-- 🌱 I’m currently learning data science
+- 👋 Hi, I’m Laura Aguilar.
+- 👀 I’m interested in science and technology.
+- 🌱 I’m currently learning data science.
